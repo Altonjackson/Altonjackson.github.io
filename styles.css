@@ -5,7 +5,7 @@ body {
 }
 h1 {
     font-family: 'Bungee', cursive; 
-    color: #000000; 
+    color: #0051ff; 
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ background: #0216ea; /* pick a color */
 border-radius: 25%;
 }
 .project img{
-width: 350px;
+width: 400px;
 height: 200px;
 margin: 10px;
 border: 2px solid rgb(0, 34, 255); /* choose a color */
