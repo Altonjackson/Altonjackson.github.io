@@ -15,15 +15,15 @@ h2 {
 
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
-width: 50%;
-margin: 300px;
+width: 40%;
+margin: 200px;
 padding: 20px 10px;
 background: #070708; /* pick a color */
 border-radius: 25%;
 }
 .project img{
-width: 500px;
-height: 500px;
+width: 450px;
+height: 450px;
 margin: 10px;
 border: 2px solid rgb(8, 8, 9); /* choose a color */
 display: block;
@@ -32,8 +32,8 @@ margin: auto;
 /* Ai generated , I used AI for this part 
 /* Targets only the Java logo image using its source URL */
 img[src*="Java-Logo.png"] {
-    width: 500px; /* Adjust this to match the width of your other images */
-    height: 500px; /* Adjust this to match the height of your other images */
+    width: 450px; /* Adjust this to match the width of your other images */
+    height: 450px; /* Adjust this to match the height of your other images */
     object-fit: contain;
     display: block;
     margin: auto;
