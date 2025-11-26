@@ -23,7 +23,7 @@ border-radius: 25%;
 }
 .project img{
 width: 200px;
-height: 50px;
+height: 250px;
 margin: 10px;
 border: 2px solid rgb(8, 8, 9); /* choose a color */
 display: block;
@@ -33,7 +33,7 @@ margin: auto;
 /* Targets only the Java logo image using its source URL */
 img[src*="Java-Logo.png"] {
     width: 200px; /* Adjust this to match the width of your other images */
-    height: 50px; /* Adjust this to match the height of your other images */
+    height: 250px; /* Adjust this to match the height of your other images */
     object-fit: contain;
     display: block;
     margin: 10px;
